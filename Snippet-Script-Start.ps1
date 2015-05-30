@@ -28,3 +28,6 @@ Links to further documentation
 Detail on what the script does, if this is needed
 
 #>
+
+   [CmdletBinding()]
+   Param( [String] $Parameter1)
